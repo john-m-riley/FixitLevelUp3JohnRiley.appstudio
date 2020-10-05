@@ -9,7 +9,71 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "inptHomePrin.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "inptHomeInt.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "inptHomeMnth.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "btnHomeCalc.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "btnHomeHome.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "btnHomeReset.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "lblHomePay.json"
+      ]
+    }
+  ],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
